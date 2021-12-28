@@ -5,3 +5,5 @@
   - menggunakan array
   - menggunakan prosedur
   - menggunakan fungsi
+2.ingin mempelajari kotlin
+3.ingin mempelajari framework javascript
