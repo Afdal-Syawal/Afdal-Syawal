@@ -1,0 +1,7 @@
+1.saya akan belajar c++
+  - menggunakan input atau cout dan cin
+  - menggunakan if
+  - menggunakan for, while, do while atau perulangan
+  - menggunakan array
+  - menggunakan prosedur
+  - menggunakan fungsi
